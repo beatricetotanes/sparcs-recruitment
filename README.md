@@ -11,5 +11,5 @@ SPARCS Recruitment Grop #3 Task using the C language
 5. Call the function in the specific case (your name):
     ```Case 1: Kaye```,
     ```Case 2: Charmagne```,
-    ```Case 3: Ynah```,
+    ```Case 3: Ynah```.
 4. Wait for further instructions on Friday. 
