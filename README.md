@@ -8,7 +8,7 @@ SPARCS Recruitment Grop #3 Task using the C language
 
 3. Open ```sparcs_recruitment.c```.
 4. Add your own function with a similar format as the ```beaTotanes()``` function. Replace with your own name and information. No need to create a function for other members, just your own.
-5. Call the function in the specific case (your name):
+5. Remove the ```printf("Test...")``` and call the function you made in the specific case (your name):
     ```Case 1: Kaye```,
     ```Case 2: Charmagne```,
     ```Case 3: Ynah```.
