@@ -1,6 +1,6 @@
 # Github Master Task
 
-SPARCS Recruitment Grop #3 Task using the C language
+SPARCS Recruitment Group #3 Task using the C language
 
 ## Instructions:
 1. Download file. Just click the "Code" button above and download the zip file.
