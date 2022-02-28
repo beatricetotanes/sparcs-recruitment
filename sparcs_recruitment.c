@@ -10,9 +10,9 @@ int main(){
     {
         printf("Choose profile below: \n");
         printf("\t[1] Kaye Jose\n");
-        printf("\t[2] Charmagne Duyag\n");
+        printf("\t[2] Charmagne\n");
         printf("\t[3] Ynah Dimpaso\n");
-        printf("\t[4] Beatrice Totanes\n");
+        printf("\t[4] Beatrice\n");
         printf("\t[5] Exit\n");
         printf("Choice: ");
         scanf("%d", &choice);
