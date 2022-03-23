@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void charmagneDuyag();
+void YnahDimpaso();
 
 int main(){
     int choice;
@@ -24,14 +24,14 @@ int main(){
                 break;
             case 2:
                 // put function here
-                charmagneDuyag();
+                printf("Test 2\n");
                 break;
             case 3:
                 // put function here
-                printf("Test 3\n");
+                YnahDimpaso();
                 break;
             case 4:
-                beaTotanes();
+                printf("Test 3\n");
                 break;
             case 5:
                 // put function here
@@ -44,13 +44,13 @@ int main(){
     
 }
 
-void charmagneDuyag(){
-    printf("\nName: Charmagne Jane Duyag\n");
-    printf("Nickname: Penpen\n");
+void YnahDimpaso(){
+    printf("\nName: Ladeena Dimpaso\n");
+    printf("Nickname: Ynah\n");
     printf("Course: BS Computer Science\n");
-    printf("Year: 1\n");
-    printf("Age: 18\n");
-    printf("Location: General Santos City\n");
-    printf("Favorite Programming Language: Python\n");
-    printf("Hobbies: Reading, Watching TV Series, Listening to Music, & Journaling\n\n");
+    printf("Year: 2\n");
+    printf("Age: 20\n");
+    printf("Location: Midsayap, North Cotabato\n");
+    printf("Favorite Programming Language: c++\n");
+    printf("Hobbies: Playing online games, listening to music, and sleeping\n\n");
 }
